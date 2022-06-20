@@ -1,0 +1,30 @@
+.modal {
+    background-color: #00000059;
+}
+
+.modal-content {
+    height: 500px;
+}
+
+.modal-projects-body {
+    padding: 20px;
+    padding: 10px 30px 30px 30px;
+}
+
+.modal-header {
+    border: none !important;
+    background-color: #E3DFF1;
+}
+
+.modal-body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #E3DFF1;
+    padding: 0px;
+}
+
+.modal-projects-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    color: #255932;
+    font-size: 30px;
+}

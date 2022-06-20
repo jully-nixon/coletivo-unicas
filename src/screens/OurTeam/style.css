@@ -1,0 +1,35 @@
+#ourTeam {
+    background-color: #FFFAEEE3;
+}
+
+.our-team-list {
+    display: flex;
+    text-align: center;
+    margin: 40px 0 0 0;
+}
+
+.our-team-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #DB7600;
+    display: inline-flex;
+    font-weight: bold;
+    margin: 80px 0 0 100px;
+    font-size: 30px;
+}
+
+.our-team-background-line {
+    margin: 112px 0 0 0;
+    position: absolute;
+    z-index: 0;
+}
+
+.our-team-background-hive {
+    width: 270px;
+    margin: 20px 0px 0 -72px;
+}
+
+.our-team-plant {
+    width: 200px;
+    margin: -82px 0px 0 -10px;
+    position: absolute;
+}

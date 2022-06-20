@@ -1,0 +1,59 @@
+#depositions {
+    display: flex;
+    background-color: #255932;
+    position: relative;
+    padding: 40px 20px 20px;
+    text-align: center;
+}
+
+
+.depositions-image {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    object-fit: cover;
+    margin: 0 0 20px 0;
+    border-radius: 50%;
+
+}
+
+.depositions-text {
+    width: 100%;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    color: #F9F8DB;
+    font-family: 'Barlow Semi Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#depositions-name {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    color: #F2BBBB;
+    text-align: center;
+}
+
+#depositions-descrition {
+    font-family: 'Inter';
+    font-weight: bold;
+    margin: 0;
+    color: #FCFCFC;
+    text-align: center;
+}
+
+.rec-pagination {
+    margin: 20px 0 20px 0 !important;
+}
+
+.rec-dot {
+background-color: #779E81 !important;
+box-shadow: none !important;
+}
+
+.rec-dot_active {
+    background-color: rgb(103 58 183) !important;
+    box-shadow: 0 0 1px 3px rgb(103 58 183) !important;
+}

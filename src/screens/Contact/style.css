@@ -1,0 +1,85 @@
+.contact {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 0rem;
+  background-color: #6451A6;
+  margin: 0;
+}
+
+.contact-texts {
+  max-width: 100rem;
+  margin: 0rem;
+  padding: 2rem 0rem 2rem 2rem;
+  align-self: center;
+  text-align: center;
+}
+
+.contact-image {
+  display: block;
+  min-height: 50rem;
+  min-width: 20rem;
+  margin: 0rem;
+  padding-left: 2rem;
+  content: '';
+  background: url('../../assets/images/contact_beev.svg') no-repeat right top;
+  background-size:contain;
+}
+
+.contact-title {
+  color: #D9D3EF;
+  margin-bottom: 2rem;
+}
+
+/* .contact-general-info {
+    color: #D9D3EF;
+} */
+
+.contact-form {
+  background-color: #5B489E;
+  color: #D9D3EF;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.contact-form-personal {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.contact-button {
+  width: 100%;
+  margin-top: 2rem;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+@media (max-width: 60rem) {
+  .contact{
+    grid-template-columns: 1fr;
+  }
+  .contact-image{
+    display: none;
+  }
+  .contact-texts{
+    max-width: 100%;
+    min-width: 90%;
+    text-align: center;
+    padding-left: 0rem;
+    padding-bottom: 0rem;
+  }
+  .contact-form {
+    background-color: '#6451A6';
+  }
+  .contact-form-personal {
+    grid-template-columns: 1fr;
+  }
+}

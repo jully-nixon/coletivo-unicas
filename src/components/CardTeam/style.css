@@ -1,0 +1,57 @@
+.card-team {
+    margin: 0 40px 0 0;
+}
+
+.card-team-image {
+    width: 150px;
+    margin: 0 0 10px 0px;
+    border-radius: 10px;
+}
+
+.card-team-infos {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0 0 6px 0;
+    display: grid;
+    width: 144px;
+    color: #582000;
+    font-size: 14px;
+}
+
+#name {
+    width: 100%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    color: #AC7C00;
+    font-size: 16px;
+}
+
+.card-team-networks {
+    width: 30px;
+    margin: 0 20px 0px -10px;
+    cursor: pointer;
+}
+
+.card-team-networks-links {
+    display: flex;
+    text-align: center;
+    margin: 10px 0px 0 46px;
+}
+
+.card-team-pronoun {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0 0 6px 0;
+    display: grid;
+    width: 144px;
+    font-size: 10px;
+    color: #2C2221;
+}
+
+#card-team-course {
+    height: 40px;
+}
+
+#card-team-button {
+    margin: 20px 0px 0 8px;
+ }

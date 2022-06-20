@@ -1,0 +1,372 @@
+/* WEB */
+
+@media (min-width: 1000px) {
+
+    /* Largura do carrossel */
+    .eLPooy {
+        width: 80% !important;
+    }
+
+    .jytZFe {
+        width: 80% !important;
+    }
+}
+
+@media (min-width: 1800px) {
+
+    .about-background-cloud {
+        margin: -250px 0 0 0px;
+    }
+
+}
+
+
+/* MOBILE */
+@media (max-width:420px) {
+
+    .about-background-cloud {
+        margin-bottom: -122px;
+    }
+
+
+    .banner-main {
+        width: 100%;
+        margin-bottom: 200px;
+    }
+
+    .about-options {
+        flex-direction: column;
+    }
+
+    .img-qs {
+        position: static;
+        margin-left: -10px;
+        margin-bottom: 40px;
+        margin-top: -30px;
+    }
+
+    .about-container {
+        flex-direction: column;
+        width: 450px;
+        margin: 20px;
+    }
+
+    #responsive-navbar-nav {
+        background-color: #eed0f9;
+        margin-left: 230px;
+        border-radius: 10px;
+        margin-top: 5px;
+        padding: 20px;
+
+    }
+
+    .our-partnerships-title {
+        font-size: 22px;
+    }
+
+    .our-partnerships-logos {
+        margin-left: 35px;
+    }
+
+    .our-team-title {
+        font-size: 22px;
+        margin-left: 125px;
+
+    }
+
+    .projects-title {
+        font-size: 22px;
+        margin-left: 96px;
+    }
+
+    .about-title {
+        font-size: 22px;
+        margin-left: 75px;
+    }
+
+    .about-subtitle {
+        font-size: 18px;
+        margin-left: 40px;
+
+    }
+
+    .banner-main {
+        width: 600px;
+
+    }
+
+    .about-image {
+        width: 180px;
+        margin-top: 15px;
+    }
+
+
+    .contact-form {
+        margin-left: -2px;
+    }
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+}
+
+
+@media (max-width:375px) {
+
+    .about-background-cloud {
+        margin: -250px 0 0 0px;
+    }
+
+    .banner-button-options {
+        margin-top: 150px;
+    }
+
+    .banner-main {
+        width: 100%;
+    }
+
+    .about-options {
+        flex-direction: column;
+    }
+
+    .img-qs {
+        position: static;
+        margin-left: -30px;
+        margin-bottom: 40px;
+        margin-top: -30px;
+    }
+
+    .about-container {
+        flex-direction: column;
+        width: 400px;
+        margin: 20px;
+    }
+
+    #responsive-navbar-nav {
+        background-color: #eed0f9;
+        margin-left: 180px;
+        border-radius: 10px;
+        margin-top: 5px;
+        padding: 20px;
+    }
+
+    .our-partnerships-title {
+        font-size: 20px;
+    }
+
+    .our-partnerships-logos {
+        margin-left: 15px;
+    }
+
+    .our-team-title {
+        font-size: 22px;
+        margin-left: 110px;
+
+    }
+
+    .projects-title {
+        font-size: 20px;
+        margin-left: 85px;
+    }
+    .about-title {
+        font-size: 22px;
+        margin-left: 50px;
+    }
+
+    .about-subtitle {
+        font-size: 18px;
+        margin-left: 45px;
+
+    }
+
+    .banner-main {
+        width: 600px;
+    }
+
+    .about-image {
+        width: 180px;
+        margin-top: 15px;
+    }
+
+    .about-background-cloud {
+        margin-bottom: -183px;
+    }
+
+    .contact-title {
+        margin-left: 0px;
+    }
+
+    .contact-form {
+        margin-left: -2px;
+    }
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+
+
+
+}
+
+
+
+@media (max-width:320px) {
+
+    .about-background-cloud {
+        margin: -250px 0 0 0px;
+    }
+
+    .banner-button-options {
+        margin-top: 150px;
+    }
+
+    .banner-main {
+        width: 100%;
+    }
+
+    .about-options {
+        flex-direction: column;
+    }
+
+    .img-qs {
+        position: static;
+        margin-left: -50px;
+        margin-bottom: 40px;
+        margin-top: -30px;
+    }
+
+    .about-container {
+        flex-direction: column;
+        width: 350px;
+        margin: 20px;
+    }
+
+    #responsive-navbar-nav {
+        background-color: #eed0f9;
+        margin-left: 140px;
+        border-radius: 10px;
+        margin-top: 5px;
+        padding: 20px;
+    }
+
+    .menu {
+
+        border: none;
+        flex-direction: column !important;
+        padding: 0;
+        position: static !important;
+        margin-left: 230px;
+        outline: none !important;
+        border: none !important;
+        box-shadow: none !important;
+        margin-top: -45px;
+        align-items: center;
+    }
+
+    .our-partnerships-title {
+        font-size: 20px;
+    }
+
+    .our-partnerships-logos {
+        margin-left: -5px;
+    }
+
+    .our-team-title {
+        font-size: 22px;
+        margin-left: 85px;
+
+    }
+
+    .projects-title {
+        font-size: 20px;
+        margin-left: 100px;
+    }
+
+    .about-title {
+        font-size: 22px;
+        margin-left: 60px;
+    }
+
+    .about-subtitle {
+        font-size: 18px;
+        margin-left: 30px;
+
+    }
+
+    .banner-main {
+        width: 600px;
+        margin-bottom: 50px;
+    }
+
+    .about-image {
+        width: 180px;
+        margin-top: 15px;
+    }
+
+    .about-background-cloud {
+        margin-bottom: -190px;
+    }
+
+    .contact-title {
+        font-size: 20px;
+
+    }
+
+    .contact-form {
+        margin-left: -2px;
+    }
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+    .banner-button-options {
+        display: none;
+    }
+
+    .card-team-networks-links {
+        padding: auto;
+
+    }
+
+
+
+
+}

@@ -1,0 +1,22 @@
+.title,
+h2 {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin: 0px 0 0 100px;
+    width: 60%;
+    font-size: 30px;
+}
+
+.home {
+    width: 100%;
+    overflow: hidden;
+}
+
+ul,
+li {
+    display: inline-block;
+    margin: 30px 0 0 0;
+}
+
+li {
+    list-style-type: none;
+}

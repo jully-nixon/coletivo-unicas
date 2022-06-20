@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+}
+
+.footer-container {
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px 20px 10px;
+    background-color: #7F6CC1;
+    color: white;
+    text-align: center;
+}
+
+.footer-social-media {
+    display: inline-flexbox;
+    margin-bottom: 30px;
+}
+
+a {
+    margin-inline: 1rem;
+}
+
+#footer-button:hover {
+    background-image: none;
+}
+
+h6 {
+    font-style: normal;
+    font-size: 0.9rem;
+    color: #D9D3EF;
+}

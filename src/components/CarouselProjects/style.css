@@ -1,0 +1,36 @@
+.carousel-projects {
+    padding: 10px;
+}
+
+.carousel-projects-background {
+    background-color: #255932;
+    width: 250px;
+    height: 280px;
+    border-radius: 26px;
+    cursor: pointer;
+    display: inline-grid;
+}
+
+.carousel-projects-image {
+    width: 250px;
+    height: 210px;
+    margin: 0;
+    object-fit: cover;
+    border-radius: 26px 26px 0 0;
+}
+
+.carousel-projects-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 0;
+}
+
+.carousel-projects-border {
+    width: 250px;
+    position: absolute;
+    margin: 0;
+}
+

@@ -1,0 +1,17 @@
+#projects {
+    background-color: #BFD2C5;
+}
+
+.projects-background {
+    width: 100%;
+    margin: 0;
+}
+
+.projects-title {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: #255932;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 60px 0 40px 100px;
+    display: inline-flex;
+}
